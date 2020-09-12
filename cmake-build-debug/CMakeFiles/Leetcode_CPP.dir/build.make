@@ -89,19 +89,79 @@ CMakeFiles/Leetcode_CPP.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_CPP.dir/main.cpp.s"
 	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\main.cpp" -o CMakeFiles\Leetcode_CPP.dir\main.cpp.s
 
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj: CMakeFiles/Leetcode_CPP.dir/flags.make
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj: ../02-Divide\ and\ conquer/P2/153-Find\ Minimum\ in\ Rotated\ Sorted\ Array/_153.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\153-Find_Minimum_in_Rotated_Sorted_Array\_153.cpp.obj -c "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\153-Find Minimum in Rotated Sorted Array\_153.cpp"
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\153-Find Minimum in Rotated Sorted Array\_153.cpp" > CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\153-Find_Minimum_in_Rotated_Sorted_Array\_153.cpp.i
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\153-Find Minimum in Rotated Sorted Array\_153.cpp" -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\153-Find_Minimum_in_Rotated_Sorted_Array\_153.cpp.s
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj: CMakeFiles/Leetcode_CPP.dir/flags.make
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj: ../02-Divide\ and\ conquer/P2/154/_154.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\154\_154.cpp.obj -c "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\154\_154.cpp"
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.i"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\154\_154.cpp" > CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\154\_154.cpp.i
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.s"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P2\154\_154.cpp" -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P2\154\_154.cpp.s
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj: CMakeFiles/Leetcode_CPP.dir/flags.make
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj: ../02-Divide\ and\ conquer/P1/169-Majority\ Element/_169.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P1\169-Majority_Element\_169.cpp.obj -c "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P1\169-Majority Element\_169.cpp"
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P1\169-Majority Element\_169.cpp" > CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P1\169-Majority_Element\_169.cpp.i
+
+CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\02-Divide and conquer\P1\169-Majority Element\_169.cpp" -o CMakeFiles\Leetcode_CPP.dir\02-Divide_and_conquer\P1\169-Majority_Element\_169.cpp.s
+
+CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj: CMakeFiles/Leetcode_CPP.dir/flags.make
+CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj: ../01-Tree/P01/94-Binary\ Tree\ Inorder\ Traversal/_94.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode_CPP.dir\01-Tree\P01\94-Binary_Tree_Inorder_Traversal\_94.cpp.obj -c "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\01-Tree\P01\94-Binary Tree Inorder Traversal\_94.cpp"
+
+CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\01-Tree\P01\94-Binary Tree Inorder Traversal\_94.cpp" > CMakeFiles\Leetcode_CPP.dir\01-Tree\P01\94-Binary_Tree_Inorder_Traversal\_94.cpp.i
+
+CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s"
+	"D:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\01-Tree\P01\94-Binary Tree Inorder Traversal\_94.cpp" -o CMakeFiles\Leetcode_CPP.dir\01-Tree\P01\94-Binary_Tree_Inorder_Traversal\_94.cpp.s
+
 # Object files for target Leetcode_CPP
 Leetcode_CPP_OBJECTS = \
-"CMakeFiles/Leetcode_CPP.dir/main.cpp.obj"
+"CMakeFiles/Leetcode_CPP.dir/main.cpp.obj" \
+"CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj" \
+"CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj" \
+"CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj" \
+"CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj"
 
 # External object files for target Leetcode_CPP
 Leetcode_CPP_EXTERNAL_OBJECTS =
 
 Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/main.cpp.obj
+Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj
+Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj
+Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj
+Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj
 Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/build.make
 Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/linklibs.rsp
 Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/objects1.rsp
 Leetcode_CPP.exe: CMakeFiles/Leetcode_CPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Leetcode_CPP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\AboutMyself\Coding\Learning Programming\CLionProjects\Leetcode-CPP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Leetcode_CPP.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Leetcode_CPP.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/AboutMyself/Coding/Learning Programming/CLionProjects/Leetcode-CPP/01-Tree/P01/94-Binary Tree Inorder Traversal/_94.cpp">
+			<Option target="Leetcode_CPP"/>
+		</Unit>
+		<Unit filename="D:/AboutMyself/Coding/Learning Programming/CLionProjects/Leetcode-CPP/02-Divide and conquer/P1/169-Majority Element/_169.cpp">
+			<Option target="Leetcode_CPP"/>
+		</Unit>
+		<Unit filename="D:/AboutMyself/Coding/Learning Programming/CLionProjects/Leetcode-CPP/02-Divide and conquer/P2/153-Find Minimum in Rotated Sorted Array/_153.cpp">
+			<Option target="Leetcode_CPP"/>
+		</Unit>
+		<Unit filename="D:/AboutMyself/Coding/Learning Programming/CLionProjects/Leetcode-CPP/02-Divide and conquer/P2/154/_154.cpp">
+			<Option target="Leetcode_CPP"/>
+		</Unit>
 		<Unit filename="D:/AboutMyself/Coding/Learning Programming/CLionProjects/Leetcode-CPP/main.cpp">
 			<Option target="Leetcode_CPP"/>
 		</Unit>

@@ -142,6 +142,114 @@ Leetcode_CPP/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/build
 .PHONY : Leetcode_CPP/fast
 
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.obj: 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj
+
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.obj
+
+# target to build an object file
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.obj
+
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.i: 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i
+
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.i
+
+# target to preprocess a source file
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.i
+
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.s: 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s
+
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.s
+
+# target to generate assembly for a file
+01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s
+.PHONY : 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.cpp.s
+
+02-Divide_and_conquer/P1/169-Majority_Element/_169.obj: 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj
+
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.obj
+
+# target to build an object file
+02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.obj
+
+02-Divide_and_conquer/P1/169-Majority_Element/_169.i: 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i
+
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.i
+
+# target to preprocess a source file
+02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.i
+
+02-Divide_and_conquer/P1/169-Majority_Element/_169.s: 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s
+
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.s
+
+# target to generate assembly for a file
+02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s
+.PHONY : 02-Divide_and_conquer/P1/169-Majority_Element/_169.cpp.s
+
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.obj: 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj
+
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.obj
+
+# target to build an object file
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.obj
+
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.i: 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i
+
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.i
+
+# target to preprocess a source file
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.i
+
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.s: 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s
+
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.s
+
+# target to generate assembly for a file
+02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s
+.PHONY : 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.cpp.s
+
+02-Divide_and_conquer/P2/154/_154.obj: 02-Divide_and_conquer/P2/154/_154.cpp.obj
+
+.PHONY : 02-Divide_and_conquer/P2/154/_154.obj
+
+# target to build an object file
+02-Divide_and_conquer/P2/154/_154.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.obj
+.PHONY : 02-Divide_and_conquer/P2/154/_154.cpp.obj
+
+02-Divide_and_conquer/P2/154/_154.i: 02-Divide_and_conquer/P2/154/_154.cpp.i
+
+.PHONY : 02-Divide_and_conquer/P2/154/_154.i
+
+# target to preprocess a source file
+02-Divide_and_conquer/P2/154/_154.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.i
+.PHONY : 02-Divide_and_conquer/P2/154/_154.cpp.i
+
+02-Divide_and_conquer/P2/154/_154.s: 02-Divide_and_conquer/P2/154/_154.cpp.s
+
+.PHONY : 02-Divide_and_conquer/P2/154/_154.s
+
+# target to generate assembly for a file
+02-Divide_and_conquer/P2/154/_154.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_CPP.dir\build.make CMakeFiles/Leetcode_CPP.dir/02-Divide_and_conquer/P2/154/_154.cpp.s
+.PHONY : 02-Divide_and_conquer/P2/154/_154.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +286,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Leetcode_CPP
+	@echo ... 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.obj
+	@echo ... 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.i
+	@echo ... 01-Tree/P01/94-Binary_Tree_Inorder_Traversal/_94.s
+	@echo ... 02-Divide_and_conquer/P1/169-Majority_Element/_169.obj
+	@echo ... 02-Divide_and_conquer/P1/169-Majority_Element/_169.i
+	@echo ... 02-Divide_and_conquer/P1/169-Majority_Element/_169.s
+	@echo ... 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.obj
+	@echo ... 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.i
+	@echo ... 02-Divide_and_conquer/P2/153-Find_Minimum_in_Rotated_Sorted_Array/_153.s
+	@echo ... 02-Divide_and_conquer/P2/154/_154.obj
+	@echo ... 02-Divide_and_conquer/P2/154/_154.i
+	@echo ... 02-Divide_and_conquer/P2/154/_154.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
